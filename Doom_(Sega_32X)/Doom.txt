@@ -1,0 +1,131 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Doom
+System:              Sega 32X
+Music hardware:      YM2612, SEGA VDP PSG
+
+Music author:        Robert Prince,
+                     Brian Coburn
+Game developer:      id Software;
+                     Sega
+Game publisher:      Sega
+Game release date:   1994-11-21 (U) /
+                     1994-12-03 (J) /
+                     1994-12-04 (E)
+
+Package created by:  BuskinCothurn, The789Guy,
+                     BoxCubed
+Package version:     2.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 At Doom's Gate                   1:37   1:36
+02 The Imp's Song                   2:42   2:36
+03 Dark Halls                       4:50   4:35
+04 Kitchen Ace (and Taking Names)   4:24   2:52
+05 Suspense                         2:45   2:45
+06 On the Hunt                      1:38   1:24
+07 Demons on the Prey               2:33   2:32
+08 Sign of Evil                     2:41   2:41
+09 Hiding the Secrets               2:18   2:18
+10 Intermission from Doom           3:23   3:20
+11 Sweet Little Dead Bunny          1:03   -
+12 Title (unused)                   0:07   -
+13 The End of Doom (unused)         3:17   3:13
+14 At Doom's Gate (Beta)            3:07   1:37
+
+Total Length                      36:25 1:07:54
+
+
+Notes:
+To be honest, I'm both surprised and
+unsurprised that this port didn't have a rip
+already made.
+
+On one hand, it's motherfucking Doom, but in
+the other hand, this is Doom for the 32X,
+possibly THE worst sounding game for the
+Genesis ever.
+
+It's just some terrible and halfassed MIDI
+conversions with bad patch choices. Not to
+mention that none of the songs have any 
+percussion, it's mostly just bass.
+
+-- BuskinCothurn
+
+Well, here we are, about a year after
+this pack was finished. It's been
+sitting on the WIP section for even
+longer than I thought, so I figured
+I'd relog the pack.
+
+With gems2rom, I discovered that the game not
+onlyhas unused songs, but also strange
+variants; For example, sequences 0C and 0D are
+just  "Intermission from Doom"; the former is
+just the main instruments (no percussion); the
+latter is just bass and percussion.
+Additionally, sequence code 11 is "Dark Halls"
+with only the bass. For your sake and my
+sanity (which I lost while making this fucking
+thing), these versions are not covered in the
+pack.
+
+I wanted to compile most of the
+funniest commentson Foxysen's YT upload
+of the soundtrack,but there were so many
+gold ones to choose from,
+so I went with the best.
+
+"In the first Age, in the first battle,
+when the shadows first lengthened,
+one stood. Burned by the gastric
+juices of his stomach, his liver full
+of beans and taco and the intestine
+tainted beyond ascension, he chose
+the path of perpetual torment.
+In his ravenous hatred he found no peace;
+and with boiling crap he scoured
+the Umbral Kitchens seeking vengeance
+against the dark cooks who had wronged him.
+He wore the Guy Fieri's T-shirt,
+and those who smell the bite
+of his farts named him ... the Doom's Clogger."
+
+In the words of Joe from Game Sack,
+this sounds like the 32X is 
+about to run out of gas and die,
+or rather the 32X just can't stop farting.
+
+One more comment for the txt, this one from
+BoxCubed:
+
+"Still better than Doom for PC-98."
+
+That's basically a Medal of Dishonor.
+
+Yeah, I know, I spent more time on this txt
+file, but at the same time, it's literally a
+shitty soundtrack that's full of doodoo
+diarrhea bullshit.
+
+--The789Guy
+
+Size reduction:
+1. optvgm: 6.58 MB -> 2.97 MB (45.2 %)
+2. vgm_cmp: 2.97 MB -> 437 KB (14.4 %)
+Total: 6.58 MB -> 437 KB (6.49 %)
+
+
+Package history:
+1.00 2021-12-23 BuskinCothurn: Initial
+ release.
+2.00 2023-01-28 The789Guy: Relogged
+ entire pack.
+2.01 2023-04-13 andlabs: Updated the
+ handle of the original pack author,
+ on their request.
